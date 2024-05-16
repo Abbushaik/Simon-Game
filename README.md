@@ -8,5 +8,7 @@ as they are able to.
 
 I added sounds to the game upon button pressing and gameover sound when the player loses the game. All the sound files are available in the sounds folder.
 
+You can access this link to play the game online: https://msalman81.github.io/Simon-Game/
+
 Here is a sneakpeak from the game!
 ![sample](https://github.com/Abbushaik/Simon-Game/assets/92208635/e24a3062-8abe-4b58-89be-ae0d24853844)
